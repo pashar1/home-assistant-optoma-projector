@@ -1,4 +1,4 @@
-#driver for Optoma HD33 projector for Home Assistant
+# driver for Optoma HD33 projector for Home Assistant
 
 media-player component for Optoma HD33 projector for Home-Assistant 
 

@@ -61,10 +61,10 @@ async def async_setup_platform(
 
 
 class OptomaProjector(MediaPlayerDevice):
-    """Representation of Epson Projector Device."""
+    """Representation of Optoma Projector Device."""
 
     def __init__(self, name, port):
-        """Initialize entity to control Epson projector."""
+        """Initialize entity to control Optoma projector."""
         import pyoptoma as optoma
         from pyoptoma import SOURCE_LIST
 
